@@ -1,1 +1,1 @@
-frooodle/s-pdf:0.24.5-ultra-lite
+frooodle/s-pdf:0.24.5
