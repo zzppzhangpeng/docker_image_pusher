@@ -1,1 +1,1 @@
- frooodle/s-pdf:latest
+frooodle/s-pdf:0.26.1
