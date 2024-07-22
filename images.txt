@@ -1,1 +1,2 @@
-frooodle/s-pdf:0.24.5
+apache/apisix:3.4.0-centos
+apache/apisix-dashboard:3.0.1-centos
