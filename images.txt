@@ -2,3 +2,5 @@ apache/apisix:3.4.0-centos
 apache/apisix-dashboard:3.0.1-centos
 bitnami/etcd:3.5
 elasticsearch:8.14.3
+lgs821/ifile
+p3terx/aria2-pro
