@@ -5,3 +5,4 @@ elasticsearch:8.14.3
 lgs821/ifile
 p3terx/aria2-pro
 mysql:5.7.16
+kibana:8.14.3
