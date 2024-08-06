@@ -6,3 +6,4 @@ lgs821/ifile
 p3terx/aria2-pro
 mysql:5.7.16
 kibana:8.14.3
+gitlab/gitlab-ce:16.7.9-ce.0
