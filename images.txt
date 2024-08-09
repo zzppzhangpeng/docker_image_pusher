@@ -8,3 +8,4 @@ mysql:5.7.16
 kibana:8.14.3
 gitlab/gitlab-ce:16.7.9-ce.0
 gitlab/gitlab-ce:14.10.4-ce.0
+quay.io/prometheus/node-exporter
