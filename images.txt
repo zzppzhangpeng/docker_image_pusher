@@ -11,3 +11,4 @@ gitlab/gitlab-ce:14.10.4-ce.0
 quay.io/prometheus/node-exporter
 docker.elastic.co/beats/filebeat:8.14.3
 apache/kafka:3.7.0
+logstash:8.14.3
