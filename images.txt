@@ -13,3 +13,4 @@ docker.elastic.co/beats/filebeat:8.14.3
 apache/kafka:3.7.0
 logstash:8.14.3
 apache/kafka:3.8.0
+bitnami/kafka:3.7
