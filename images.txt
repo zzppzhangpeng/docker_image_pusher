@@ -14,4 +14,4 @@ apache/kafka:3.7.0
 logstash:8.14.3
 apache/kafka:3.8.0
 bitnami/kafka:3.7
-kube-state-metrics:v1.9.0
+registry.cn-wulanchabu.aliyuncs.com/moge1/kube-state-metrics:v2.3.0
