@@ -1,1 +1,1 @@
-registry.cn-wulanchabu.aliyuncs.com/moge1/kube-state-metrics:v1.9.0
+library/kube-state-metrics:v1.9.0
