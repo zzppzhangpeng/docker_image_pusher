@@ -1,1 +1,2 @@
 ccr.ccs.tencentyun.com/mayfly/mayfly-go:v1.8.5
+mysql:8
