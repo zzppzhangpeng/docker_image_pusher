@@ -2,3 +2,4 @@ kibana:8.15.0
 elastic/filebeat:8.15.0
 zabbix/zabbix-server-mysql:ubuntu-7.0.3
 zabbix/zabbix-web-nginx-mysql:ubuntu-7.0.3
+nacos/nacos-server:v2.4.2
