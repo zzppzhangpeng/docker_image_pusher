@@ -1,3 +1,4 @@
 zabbix/zabbix-server-pgsql:7.0-centos-latest
 zabbix/zabbix-web-nginx-pgsql:7.0-centos-latest
 postgres:14-alpine
+postgres:16-alpine
