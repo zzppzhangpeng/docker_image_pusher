@@ -1,1 +1,2 @@
 joinsunsoft/kafka-ui-lite:latest
+nginx:1.27
