@@ -1,1 +1,1 @@
-freakchicken/kafka-ui-lite
+joinsunsoft/kafka-ui-lite:latest
