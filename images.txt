@@ -1,3 +1,1 @@
-nginx:1.26.1
-nginx:1.26.0
-nginx:1.25.5
+debian:bookworm-slim
