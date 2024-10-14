@@ -1,6 +1,1 @@
-joinsunsoft/kafka-ui-lite:latest
-nginx:1.27
-debian:bookworm
-nginx:1.27.2
-nginx:1.27.1
-nginx:1.24
+nginx:1.27.2-alpine
