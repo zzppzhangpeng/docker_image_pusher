@@ -1,1 +1,1 @@
-cloudera/impala:latest
+cloudera/impala
