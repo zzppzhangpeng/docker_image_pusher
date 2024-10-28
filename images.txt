@@ -1,1 +1,2 @@
+apache/impala:4.0.0
 ibisproject/impala
