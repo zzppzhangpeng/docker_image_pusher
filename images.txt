@@ -1,1 +1,1 @@
-nginx
+ibisproject/impala
