@@ -1,2 +1,1 @@
-apache/impala
-ibisproject/impala
+hue:4.10.0
