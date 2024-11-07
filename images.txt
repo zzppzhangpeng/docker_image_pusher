@@ -1,1 +1,1 @@
-redis:5.0.12
+minio/minio:RELEASE.2023-03-22T06-36-24
