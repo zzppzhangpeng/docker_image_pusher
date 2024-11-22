@@ -1,1 +1,3 @@
-minio/minio:RELEASE.2023-06-23T20-26-00Z
+dushixiang/kafka-map:latest
+amacneil/dbmate:latest
+redislabs/redisinsight:latest
