@@ -1,3 +1,1 @@
-dushixiang/kafka-map:latest
-amacneil/dbmate:latest
-redislabs/redisinsight:latest
+redislabs/redisinsight:1.13.1
