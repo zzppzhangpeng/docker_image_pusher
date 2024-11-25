@@ -1,1 +1,1 @@
-redislabs/redisinsight:1.13.1
+metabase/metabase:v0.51.4.4
