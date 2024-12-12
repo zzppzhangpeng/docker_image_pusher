@@ -1,1 +1,1 @@
-metabase/metabase:v0.51.4.4
+eclipse-temurin:17.0.13_11-jdk-ubi9-minimal
