@@ -1,1 +1,1 @@
-daocloud.io/lifei6671/mindoc:latest
+harryhan1989/mindoc:latest
