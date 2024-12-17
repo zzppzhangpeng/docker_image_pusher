@@ -1,1 +1,1 @@
-eclipse-temurin:17.0.13_11-jdk-ubi9-minimal
+daocloud.io/lifei6671/mindoc:latest
