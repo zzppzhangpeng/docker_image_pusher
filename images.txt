@@ -1,1 +1,1 @@
-harryhan1989/mindoc:latest
+atmoz/sftp:latest
