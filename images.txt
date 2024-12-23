@@ -1,1 +1,1 @@
-lanyulei/ferry:1.0.1
+redis:6.0
