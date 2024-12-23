@@ -1,1 +1,1 @@
-atmoz/sftp:latest
+lanyulei/ferry:latest
