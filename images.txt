@@ -1,1 +1,1 @@
-lanyulei/ferry:latest
+lanyulei/ferry:1.0.1
