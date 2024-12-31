@@ -1,1 +1,1 @@
-redis:6.0
+apache/apisix:3.11.0-redhat
