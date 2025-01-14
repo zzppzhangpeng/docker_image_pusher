@@ -1,1 +1,2 @@
 apache/apisix:3.11.0-redhat
+nacos/nacos-server:v2.4.3
