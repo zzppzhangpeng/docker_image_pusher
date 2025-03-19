@@ -1,1 +1,4 @@
-plippe/faiss-web-service:1.5.2
+pinpointdocker/pinpoint-hbase:2.5.3
+pinpointdocker/pinpoint-web:2.5.3
+pinpointdocker/pinpoint-collector:2.5.3
+zookeeper:3.4.13
