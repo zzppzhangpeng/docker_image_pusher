@@ -1,1 +1,1 @@
-openjdk:8u342-jdk
+nginx:latest
