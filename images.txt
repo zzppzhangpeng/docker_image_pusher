@@ -1,1 +1,1 @@
-nginx:latest
+registry.cn-shanghai.aliyuncs.com/study-03/ansible:latest
