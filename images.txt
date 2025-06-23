@@ -1,1 +1,1 @@
-registry.cn-shanghai.aliyuncs.com/study-03/ansible:latest
+spoonest/clickhouse-tabix-web-client:latest
