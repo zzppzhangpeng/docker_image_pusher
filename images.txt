@@ -1,1 +1,1 @@
-spoonest/clickhouse-tabix-web-client:latest
+rancher/rancher:latest
