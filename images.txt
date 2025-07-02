@@ -1,3 +1,3 @@
-pinpointdocker/pinpoint-collector:3.0.3
-pinpointdocker/pinpoint-hbase:3.0.3
-pinpointdocker/pinpoint-web:3.0.3
+pinpointdocker/pinpoint-collector:3.0.2
+pinpointdocker/pinpoint-hbase:3.0.2
+pinpointdocker/pinpoint-web:3.0.2
