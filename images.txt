@@ -1,3 +1,4 @@
 pinpointdocker/pinpoint-collector:3.0.2
 pinpointdocker/pinpoint-hbase:3.0.2
 pinpointdocker/pinpoint-web:3.0.2
+clickhouse/clickhouse-server:24.9.2.42
