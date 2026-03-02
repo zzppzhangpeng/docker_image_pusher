@@ -1,1 +1,1 @@
-wurstmeister/kafka:2.13-2.7.1
+pinpointdocker/pinpoint-batch:2.5.3
