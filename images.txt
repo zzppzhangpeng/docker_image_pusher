@@ -1,2 +1,1 @@
-pinpointdocker/pinpoint-batch:2.5.3
-pinpointdocker/pinpoint-alarm:2.5.3
+registry.cn-hangzhou.aliyuncs.com/kechangqing/frostmourne:1.0
