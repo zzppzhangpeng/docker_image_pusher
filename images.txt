@@ -1,3 +1,1 @@
-zabbix/zabbix-proxy-mysql:ubuntu-7.0.6
-zabbix/zabbix-server-pgsql:7.0.6-centos
-zabbix/zabbix-web-nginx-pgsql:7.0.6-centos
+chrislusf/seaweedfs:latest
